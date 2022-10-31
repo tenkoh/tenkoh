@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/tenkoh">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenkoh&layout=compact&theme=dracula" />
 </a>
+
+
+### Recent contribution
+#### golang/go
+- https://go.dev/cl/396694
+- https://go.dev/cl/400554
